@@ -34,7 +34,7 @@ I explore different datasets and experiment with various types of graphs to stre
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python   
 - Pandas  
